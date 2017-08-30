@@ -1,0 +1,169 @@
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+
+    android:orientation="vertical">
+
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+
+                <Button
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_margin="5dp"
+                    android:background="@color/colorButton"
+                    android:text="BELLS"
+                    android:textColor="@color/colorText"
+                    android:textSize="20sp" />
+            </LinearLayout>
+
+            <ImageButton
+                android:id="@+id/t1"
+                android:layout_width="wrap_content"
+                android:layout_height="125dp"
+                android:src="@drawable/testerpopulargold101"
+                android:visibility="visible"
+
+                />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:clickable="false"
+                android:text="PRICE:27.50"
+
+                android:textColor="@color/colorButton"
+                android:textSize="20sp" />
+
+
+            <ImageButton
+                android:id="@+id/t2"
+                android:layout_width="wrap_content"
+                android:layout_height="125dp"
+                android:src="@drawable/testergreeno102"
+                android:visibility="visible"
+
+                />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:clickable="false"
+                android:text="PRICE:27.50"
+
+                android:textColor="@color/colorButton"
+                android:textSize="20sp" />
+
+            <ImageButton
+                android:id="@+id/t3"
+                android:layout_width="wrap_content"
+                android:layout_height="125dp"
+                android:src="@drawable/testersaathi104"
+                android:visibility="visible"
+
+                />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:clickable="false"
+                android:text="PRICE:30.00"
+
+                android:textColor="@color/colorButton"
+                android:textSize="20sp" />
+
+            <ImageButton
+                android:id="@+id/t4"
+                android:layout_width="wrap_content"
+                android:layout_height="125dp"
+                android:src="@drawable/testersupersaathi106"
+                android:visibility="visible"
+
+                />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:clickable="false"
+                android:text="PRICE:40.00"
+
+                android:textColor="@color/colorButton"
+                android:textSize="20sp" />
+
+            <ImageButton
+                android:id="@+id/t5"
+                android:layout_width="wrap_content"
+                android:layout_height="125dp"
+                android:src="@drawable/testerjyotiind111"
+                android:visibility="visible"
+
+                />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:clickable="false"
+                android:text="PRICE:45.00"
+
+                android:textColor="@color/colorButton"
+                android:textSize="20sp" />
+
+            <ImageButton
+                android:id="@+id/t6"
+                android:layout_width="wrap_content"
+                android:layout_height="125dp"
+                android:src="@drawable/testerheavyind112"
+                android:visibility="visible"
+
+                />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:clickable="false"
+                android:text="PRICE:47.50"
+
+                android:textColor="@color/colorButton"
+                android:textSize="20sp" />
+
+            <ImageButton
+                android:id="@+id/t7"
+                android:layout_width="wrap_content"
+                android:layout_height="125dp"
+                android:src="@drawable/testermastercontinuity121"
+                android:visibility="visible"
+
+                />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:clickable="false"
+                android:text="PRICE:57.50"
+
+                android:textColor="@color/colorButton"
+                android:textSize="20sp" />
+
+
+        </LinearLayout>
+    </ScrollView>
+</LinearLayout>

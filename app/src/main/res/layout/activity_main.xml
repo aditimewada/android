@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+
+    android:orientation="vertical">
+
+
+        <ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="horizontal">
+            <Button
+                android:layout_width="120dp"
+                android:layout_height="50dp"
+                android:text="@string/home"
+                android:background="@color/colorButton"
+                android:layout_margin="5dp"
+                android:textSize="19sp"
+                android:textColor="@android:color/white"
+                android:id="@+id/home"
+                android:clickable="true"
+                android:cursorVisible="true"
+
+                />
+            <Button
+                android:layout_width="120dp"
+                android:layout_height="50dp"
+                android:text="@string/aboutus"
+                android:background="@color/colorButton"
+                android:layout_margin="5dp"
+                android:textSize="19sp"
+                android:textColor="@android:color/white"
+                android:id="@+id/aboutus"/>
+            <Button
+                android:layout_width="120dp"
+                android:layout_height="50dp"
+                android:text="@string/contactus"
+                android:background="@color/colorButton"
+                android:layout_margin="6dp"
+                android:textSize="19sp"
+                android:textColor="@android:color/white"
+                android:id="@+id/contactus"
+                />
+
+        </LinearLayout>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text="OUR PRODUCTS"
+                android:textSize="20sp"
+                android:background="@color/colorButton"
+                android:textColor="@android:color/white"
+                android:layout_margin="5dp"/>
+        </LinearLayout>
+        <ImageButton
+            android:layout_width="wrap_content"
+            android:layout_height="150dp"
+            android:src="@drawable/testersupersaathi106"
+            android:id="@+id/bells"
+            android:visibility="visible"
+            
+             />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:clickable="false"
+            android:text="@string/bell"
+            android:textStyle="bold"
+            android:textSize="20sp"
+            android:textColor="@color/colorButton"/>
+
+        <ImageButton
+            android:layout_width="match_parent"
+            android:layout_height="150dp"
+            android:src="@drawable/testerpopulargold101"
+            android:id="@+id/testers"
+            android:visibility="visible"
+
+            />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:clickable="false"
+            android:text="@string/testers"
+            android:textStyle="bold"
+            android:textSize="20sp"
+            android:textColor="@color/colorButton"/>
+
+        <ImageButton
+            android:layout_width="match_parent"
+            android:layout_height="150dp"
+            android:src="@drawable/black_power_strip_503"
+            android:id="@+id/powerstrips"
+            android:visibility="visible"
+
+            />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:clickable="false"
+            android:text="@string/powerstrips"
+            android:textStyle="bold"
+            android:textSize="20sp"
+            android:textColor="@color/colorButton"/>
+        <ImageButton
+            android:layout_width="match_parent"
+            android:layout_height="150dp"
+            android:src="@drawable/grill_with_frame_4m"
+            android:id="@+id/footlight"
+            android:visibility="visible"
+
+            />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:clickable="false"
+            android:text="@string/footlight"
+            android:textStyle="bold"
+            android:textSize="20sp"
+            android:textColor="@color/colorButton"/>
+        <ImageButton
+            android:layout_width="match_parent"
+            android:layout_height="150dp"
+            android:src="@drawable/bulkhead_18w_pc_610"
+            android:id="@+id/bulkhead"
+            android:visibility="visible"
+
+            />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:clickable="false"
+            android:text="@string/bulkheads"
+            android:textStyle="bold"
+            android:textSize="20sp"
+            android:textColor="@color/colorButton"/>
+</LinearLayout>
+</ScrollView>
+</LinearLayout>

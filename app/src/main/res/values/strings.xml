@@ -1,0 +1,65 @@
+<resources>
+    <string name="app_name">AHUJA PRODUCTS</string>
+    <string name="bell">BELLS</string>
+    <string name="testers">TESTERS</string>
+    <string name="footlight">FOOT LIGHT</string>
+    <string name="powerstrips">POWER STRIPS</string>
+    <string name="bulkheads">BULKHEADS</string>
+    <string name="home">HOME</string>
+    <string name="aboutus">ABOUT US</string>
+    <string name="contactus">CONATCT US</string>
+    <string name="headabtus">Ahuja Products</string>
+    <string name="abtus">Since establishment in the year 1995, we, Ahuja Products, are consistently working with an aim of designing and manufacturing the finest quality electric products and components. We are a renowned manufacturer of this respective arena and are committed to offer top-quality electric solutions. Our offered range encompasses quality-approved range of Line Testers, Electric Door Bells, Power Strips, Bulkheads Fittings, Electrical Holder, Foot Lights and Down Light Frame, Multi Plug, Metal Clamp, Metal and Tube Clip and MCB Box.  All of our offered products are made of superior grade raw material procured from reliable vendors, which make them perfect and highly efficient for heavy duty usage. Our entire range is well known for their low maintenance, stylish look and durability. In addition to this, the products are available in various shapes, sizes and designs which are developed keeping in mind the varied requirements of our respected customers. Moreover, we stay in close coordination with our clients as it helps us to build healthy and long standing relationship with them.
+
+With rock solid determination and capable guidance of our respected mentor, Mr. Narendra Ahuja , our organization has grown from strength to strength and has achieved a dominating position in the market. He constantly guides us on the way of excellence with his remarkable domain expertise and immense knowledge.</string>
+    <string name="headctnus">Contact Details</string>
+    <string name="address">Address</string>
+    <string name="addressdetails">1st Floor, Plot No.9A,
+        Moti Udhyog Bhavan Next T Shri Laxmi Ind. Estate
+        , Malad West, Mumbai 400064, Maharashtra, India</string>
+    <string name="ceo">Narendra Ahuja</string>
+    <string name="enquiry">TO GET BEST QUOTES Describe Your Requirements In Details Like \n
+    -What Are You Looking For\n
+    -Features/Specifications\n
+    -Application/Usage\n
+    -Minimum Order Quantity etc
+    </string>
+    <string name="factsheet">Fact Sheet</string>
+    <string name="whyus">Why Us</string>
+    <string name="basicinfo"><u>Basic Infromation</u></string>
+    <string name="qual">Quality Measures /\n
+    Testing Facilities:</string>
+    <string name="employees">Total no of\n
+    Employees</string>
+    <string name="ownership">Sole Proprietor\n
+    (Individual)</string>
+    <string name="paymentmode">\u2022Cash\n
+\u2022Cheque\n
+\u2022DD\n
+\u2022Bank Transfer</string>
+    <string name="all"><u>Payment/Packaging \n
+    and Shipment Details</u></string>
+    <string name="compusp"><u>Company USP</u></string>
+    <string name="enquiryno">Enter Your No. </string>
+    <string name="whyuscont">With our ethical business policies and the best quality products such as Line Testers, Electric Door Bells, Power Strips, Bulkheads Fittings, Electrical Holder, Foot Lights and Down Light Frame, Multi Plug, Metal Clamp, Metal and Tube Clip and MCB Box. we have been able to gain the trust and faith of our revered customers. We are committed to rendering
+        high-quality products at most competitive prices with strict adherence to timely delivery schedules. Moreover, our firm is well supported by an expert team of professionals to design and develop the most advance line of electric products for our valued clients.</string>
+    <string name="text_accounts">All Accounts</string>
+    <string name="hint_name">Name</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Password</string>
+    <string name="hint_confirm_password">Confirm Password</string>
+    <string name="text_login">Login</string>
+    <string name="text_register">Register</string>
+    <string name="error_message_name">Enter Full Name</string>
+    <string name="error_message_email">Enter Valid Email</string>
+    <string name="error_message_age">Enter Age</string>
+    <string name="error_message_password">Enter Password</string>
+    <string name="success_message">Registration Successful</string>
+    <string name="text_not_member">No account yet? Create one</string>
+    <string name="text_already_member">Already a member? Login</string>
+    <string name="error_email_exists">Email Already Exists</string>
+    <string name="error_password_match">Password Does Not Matches</string>
+    <string name="error_valid_email_password">Wrong Email or Password</string>
+    <string name="action_settings">Settings</string>
+    <string name="text_hello">Hello,</string>
+</resources>
